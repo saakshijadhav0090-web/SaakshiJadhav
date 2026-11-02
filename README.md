@@ -28,6 +28,7 @@ Google Data Analytics
 
 Connect With Me
 LinkedIn: https://www.linkedin.com/in/saakshi-jadhav-674a5018b/
+
 Email:saakshijadhav0090@gmail.com
 
 Thank you for visiting my portfolio!
