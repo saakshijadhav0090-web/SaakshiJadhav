@@ -1,4 +1,5 @@
- Hi, I'm Saakshi Jadhav! 
+ Hi, I'm Saakshi Jadhav!
+ 
 Aspiring Data Analyst | Business Analyst
 
 Welcome to my GitHub portfolio!
@@ -6,7 +7,6 @@ I hold a Master of Computer Applications (MCA) degree from MIT World Peace Unive
 I'm passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
 
 Technical Skills
-
 Programming:Python (Pandas, NumPy)
 Data Analysis:SQL, Excel
 Data Visualization:Power BI, Matplotlib, Seaborn
